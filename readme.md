@@ -12,7 +12,9 @@ Celui-ci permet d'envoyer des messages depuis la page [show/index.php](show/inde
 ### Prérequis
 - PHP 7.4 ou supérieur
 - curl via PHP (installé par défaut sur la plupart des serveurs)
-
+Voici par exemple un serveur gratuit sur lequel vous pouvez installer K8TEXT:
+- [InfinityFree](https://www.infinityfree.com/)
+Si vous n'avez pas d'url à votre nom, mettez simplement la page en plein écran (F11) et le tour est joué !
 ### Étapes
 1. Téléchargez le code source.
 2. Copiez le contenu du dossier `k8text` dans le dossier de votre serveur web.
