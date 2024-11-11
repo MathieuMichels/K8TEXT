@@ -49,6 +49,6 @@ const ADMIN_PASSWORD = 'admin'; // Mot de passe de l'admin
 > [!WARNING]
 > K8TEXT est un projet scout !
 > 
-> Il n'est en aucun cas un exemple en terme de cybersécurité. Il est fortement recommandé de ne pas utilisé les techniques de sécurité utilisées dans ce projet pour un projet professionnel.
+> Il n'est en aucun cas un exemple en terme de cybersécurité. Il est fortement recommandé de ne pas utiliser les techniques de sécurité utilisées dans ce projet pour un projet professionnel.
 > 
-> De plus, il ne dispose d'aucune optimisation quelconque. Il a été conçu pour être utilisé avec quelques ordinateurs émetteurs de messages et quelques ordinateurs récepteurs. La priorité a été donnée à la simplicité à le déployer sur n'importe quel serveur web. Il n'est pas recommandé de l'utiliser pour des événements de très grande envergure.
+> De plus, il ne dispose d'aucune optimisation quelconque. Il a été conçu pour être utilisé avec quelques ordinateurs dédiés à l'envoi et quelques ordinateurs dédiés à l'affichage des messages. La priorité a été donnée à la simplicité à le déployer sur n'importe quel serveur web. Il n'est pas recommandé de l'utiliser pour des événements de très grande envergure.
