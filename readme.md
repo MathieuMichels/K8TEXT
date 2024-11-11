@@ -44,3 +44,8 @@ const REJECTED_MESSAGES_FILE = 'rejected_messages.json'; // Fichier de stockage 
 const ADMIN_USERNAME = 'admin'; // Nom d'utilisateur de l'admin
 const ADMIN_PASSWORD = 'admin'; // Mot de passe de l'admin
 ```
+
+
+> [!WARNING]
+> K8TEXT est un projet scout. Il n'est en aucun cas un exemple en terme de cybersécurité. Il est fortement recommandé de ne pas utilisé les techniques de sécurité utilisées dans ce projet pour un projet professionnel.
+> De plus, il ne dispose d'aucune optimisation quelconque. Il a été conçu pour être utilisé avec quelques ordinateurs émetteurs de messages et quelques ordinateurs récepteurs. La priorité a été donnée à la simplicité à le déployer sur n'importe quel serveur web. Il n'est pas recommandé de l'utiliser pour des événements de très grande envergure.
